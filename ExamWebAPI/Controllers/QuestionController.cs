@@ -37,19 +37,19 @@ namespace ExamWebAPI.Controllers
             return Json(result);
         }
 
-        // POST: api/Question
-        public void Post([FromBody]string value)
-        {
-        }
+        //// POST: api/Question
+        //public void Post([FromBody]string value)
+        //{
+        //}
 
-        // PUT: api/Question/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
+        //// PUT: api/Question/5
+        //public void Put(int id, [FromBody]string value)
+        //{
+        //}
 
-        // DELETE: api/Question/5
-        public void Delete(int id)
-        {
-        }
+        //// DELETE: api/Question/5
+        //public void Delete(int id)
+        //{
+        //}
     }
 }
